@@ -308,3 +308,6 @@ padding-left: 80px;
 			width:100%;
 		}
 }
+.left-content .postsloop, .left-content .single-posst{
+	margin:0;
+}
