@@ -42,8 +42,8 @@ width: 100%;}
     min-height: 1000px;
    }
   .intro-section:before {
-    position: absolute;
-    width:75%;
+    position: relative;
+    width:100%;
     background-size:100%;
     background: rgba(0, 0, 0, 0);
     border-bottom-right-radius: 0px;
@@ -55,7 +55,7 @@ width: 100%;}
         width: 100%; } }
   .intro-section .intro h1 {
 
-    font-size: 105px;
+    font-size: 5em;
     font-weight: 1500;
     line-height: 1.5;
     color: #595959;
@@ -63,13 +63,13 @@ width: 100%;}
 padding-bottom:-80%;}
     @media (max-width: 991.98px) {
       .intro-section .intro h1 {
-        font-size: 54px;
+        font-size: 7empx;
         color:#595959 ;
         margin-top: -280px;
          } }
 @media (min-width: 1200px) {
       .intro-section .intro h1 {
-        font-size: 105px;
+        font-size: 8em;
     font-weight: 1500;
     line-height: 1.5;
     color: #595959;
